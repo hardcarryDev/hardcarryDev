@@ -22,6 +22,8 @@ All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
  -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daramKim&layout=compact&theme=cobalt&hide=python,C,C++)](https://github.com/daramKim)
+
 
 
  <a href="#">
