@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black)
+![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=2e4058)
 <!-- 
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
@@ -25,9 +25,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 &bg_color=30,e96443,904e95&title_color=fff&text_color=fff 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daramKim&layout=compact&theme=cobalt&hide=python,C,C%2B%2B)](https://github.com/daramKim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daramKim&layout=compact&theme=cobalt&border_color=2e4058&hide=python,C,C%2B%2B)](https://github.com/daramKim)
 
-[![daramKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daramKim)](https://github.com/daramKim/github-readme-stats)
+[![daramKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daramKim&border_color=2e4058)](https://github.com/daramKim)
 
 
 
