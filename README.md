@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdaramKim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=2e4058)
+![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
 <!-- 
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
