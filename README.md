@@ -33,6 +33,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 
+## :sparkling_heart: 같이 성장하실분 대모집중👍
+
+늦었다고 생각할 때가 가장 빠를 때입니다. 같이 성장하시죠! 
+오픈 마인드이신분들은 아래 버튼을 통해 join 해주시면 감사하겠습니다. ^^  
+
 
  <a href="#">
     <img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
