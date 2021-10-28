@@ -4,6 +4,16 @@
 저도 밥먹는시간 빼고는 전부 스프링에 매달려 있답니다. 같이 공부하면 더욱 더 재밌을 것 같아요🤗 
 문은 언제나 열려있으니 부담 가지지 말고 연락주세요! 기다릴게요 감사합니다. 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdaramKim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+[![TECH-BLOG](http://img.shields.io/badge/-Tech%20blog-FB5BC5?style=flat-square&logo=github)](https://github.com/daramKim)	
+[![LINKED-IN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]
+[![FACE-BOOK](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com)
+[![G-MAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaindevchu@gmail.com)](mailto:chaindevchu@gmail.com)
+  
+ [![EricSeokgon's github stats](https://github-readme-stats.vercel.app/api?username=EricSeokgon)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
  <a href="#">
     <img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
@@ -25,7 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdaramKim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
 <!-- 
@@ -49,6 +58,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 오픈 마인드이신분들은 아래 버튼을 통해 join 해주시면 감사하겠습니다. ^^  
 
 
- <a href="mailto":chaindevchu@gmail.com"">
+ <a href="mailto:chaindevchu@gmail.com">
     <img src="https://badgen.net/badge/icon/Do you wanna talk?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
  </a>
