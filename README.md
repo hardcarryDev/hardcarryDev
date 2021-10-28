@@ -1,4 +1,10 @@
-### Hi there 👋
+## 안녕하세요. daramKim 입니다! 🙇🏻
+
+
+ <a href="#">
+    <img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
+  </a>
+
 
 <!--
 **daramKim/daramKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,9 +45,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 오픈 마인드이신분들은 아래 버튼을 통해 join 해주시면 감사하겠습니다. ^^  
 
 
- <a href="#">
-    <img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
-  </a>
  <a href="mailto":chaindevchu@gmail.com"">
     <img src="https://badgen.net/badge/icon/Do you wanna talk?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
  </a>
