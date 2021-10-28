@@ -1,9 +1,13 @@
 ## 반갑습니다! 🙇🏻
+프론트 위주로 프로젝트를 진행하다가, 최근 자바 백엔드 개발자로 전향중인 주니어 개발자입니다.
+저랑 비슷하게 자바 스프링에 꽂히신 분들이 많을거라 생각하는데요. 공부해야 될게 한두가지가 아니죠!? 
+저도 밥먹는시간 빼고는 전부 스프링에 매달려 있답니다. 같이 공부하면 더욱 더 재밌을 것 같아요🤗 
+문은 언제나 열려있으니 부담 가지지 말고 연락주세요! 기다릴게요 감사합니다. 
 
 
  <a href="#">
     <img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
-  </a>
+</a>
 
 
 <!--
