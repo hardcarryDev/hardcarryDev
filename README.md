@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
     <img src="https://img.shields.io/badge/Vue-palegoldenrod?style=flat-square&logo=Vue.js&logoColor=black&color=4FC08D"/>
     <img src="https://img.shields.io/badge/React-palegoldenrod?style=flat-square&logo=React&logoColor=black&color=61DAFB"/>
+    <img src="https://img.shields.io/badge/Socket.io-palegoldenrod?style=flat-square&logo=Socket.io&logoColor=white&color=010101"/>
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red&color=007396"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
     <img src="https://img.shields.io/badge/Oracle-palegoldenrod?style=flat-square&logo=Oracle&logoColor=black&color=F80000"/>
