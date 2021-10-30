@@ -13,20 +13,6 @@
 </a>
 
 
-<!--
-**daramKim/daramKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
@@ -43,6 +29,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!-- wakatime... 이건 사용할지 안할지 고려중
 [![daramKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daramKim&border_color=2e4058)](https://github.com/daramKim) 
 -->
+
+[![commitcombo](http://commitcombo.com/get?user=daramKim&theme=RoyalRed-mini&v=2)](https://github.com/devxb/CommitCombo)
+<!-- [![commitcombo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo) -->
+
 
 
 ## :sparkling_heart: 같이 성장하실분 대모집중👍
