@@ -1,9 +1,9 @@
-## 반갑습니다! 🙇🏻  　　　　　　　　　　　　　　　　　　　　　　　　[![TECH-BLOG](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://github.com/daramKim) ![LINKED-IN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com) ![TWEETER](https://img.shields.io/badge/Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/chaindevchu) [![G-MAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaindevchu@gmail.com)](mailto:chaindevchu@gmail.com)  
+## 반갑습니다! 🙇🏻 　[![TECH-BLOG](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://github.com/daramKim) ![LINKED-IN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com) ![TWEETER](https://img.shields.io/badge/Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/chaindevchu) [![G-MAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaindevchu@gmail.com)](mailto:chaindevchu@gmail.com)  
 
 <div align="right"/>
     
 <a><img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=8174f6&labelColor=9b91f8"/></a>
-[![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdaramKim%2Fhit-counter&count_bg=black&title_bg=%23555555&icon=&icon_color=&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)　　
+[![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdaramKim%2Fhit-counter&count_bg=black&title_bg=%23555555&icon=&icon_color=&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="left"/>
 
