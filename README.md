@@ -13,17 +13,35 @@
 최근 스프링 프레임워크 코어, JPA, querydsl 등에 관심이 많습니다.   
 
 
-<h3>Technic 💪</h3>
+### Technic 💪
+
 <p>
     <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
     <img src="https://img.shields.io/badge/Vue-palegoldenrod?style=flat-square&logo=Vue.js&logoColor=black&color=4FC08D"/>
     <img src="https://img.shields.io/badge/React-palegoldenrod?style=flat-square&logo=React&logoColor=black&color=61DAFB"/>
     <img src="https://img.shields.io/badge/Socket.io-palegoldenrod?style=flat-square&logo=Socket.io&logoColor=white&color=010101"/>
+    </br>
     <img src="https://img.shields.io/badge/Java-palegoldenrod?style=flat-square&logo=Java&logoColor=red&color=007396"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
     <img src="https://img.shields.io/badge/Oracle-palegoldenrod?style=flat-square&logo=Oracle&logoColor=black&color=F80000"/>
-    <img src="https://img.shields.io/badge/Andorid-palegoldenrod?style=flat-square&logo=Android&logoColor=black&color=3DDC84"/>
+    <img src="https://img.shields.io/badge/AOS-none?style=flat-square&logo=Android&logoColor=black&color=3DDC84"/>
 </p>
+
+### Tools 🛠
+
+<p>
+    <img src="https://img.shields.io/badge/Visual Studio Code-none?style=flat-square&logo=Visual Studio Code&logoColor=007ACC&color=lightgrey"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-none?style=flat-square&logo=IntelliJ IDEA
+&logoColor=000000&color=EF2D5E"/>
+    <img src="https://img.shields.io/badge/Eclipse IDE-none?style=flat-square&logo=Eclipse IDE&logoColor=2C2255&color=AFDDF2"/>
+    <img src="https://img.shields.io/badge/SonarQube-none?style=flat-square&logo=SonarQube&logoColor=4E9BCD&color=2651A2"/>
+    </br>
+    <img src="https://img.shields.io/badge/Redmine-none?style=flat-square&logo=Redmine&logoColor=B32024&color=orange"/>
+    <img src="https://img.shields.io/badge/Confluence-none?style=flat-square&logo=Confluence&logoColor=blue&color=black"/>
+    <img src="https://img.shields.io/badge/Android Studio-none?style=flat-square&logo=Android Studio&logoColor=3DDC84&color=grey"/>
+      
+</p>
+
 
 </br>
 
