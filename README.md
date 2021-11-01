@@ -31,8 +31,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/Visual Studio Code-none?style=flat-square&logo=Visual Studio Code&logoColor=007ACC&color=lightgrey"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-none?style=flat-square&logo=IntelliJ IDEA
-&logoColor=000000&color=EF2D5E"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-none?style=flat-square&logo=IntelliJ IDEA&logoColor=000000&color=EF2D5E"/>
     <img src="https://img.shields.io/badge/Eclipse IDE-none?style=flat-square&logo=Eclipse IDE&logoColor=2C2255&color=AFDDF2"/>
     <img src="https://img.shields.io/badge/SonarQube-none?style=flat-square&logo=SonarQube&logoColor=4E9BCD&color=2651A2"/>
     </br>
