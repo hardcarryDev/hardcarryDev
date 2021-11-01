@@ -1,4 +1,6 @@
-## 반갑습니다! 🙇🏻 　[![TECH-BLOG](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://github.com/daramKim) ![LINKED-IN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com) [![TWEETER](https://img.shields.io/badge/Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chaindevchu) [![G-MAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaindevchu@gmail.com)](mailto:chaindevchu@gmail.com)  
+## 반갑습니다! 🙇🏻 　[![TWEETER](https://img.shields.io/badge/Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chaindevchu) [![G-MAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaindevchu@gmail.com)](mailto:chaindevchu@gmail.com)  
+
+<!-- ![LINKED-IN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com) -->
 
 <div align="right"/>
     
@@ -11,7 +13,7 @@
 최근 스프링 프레임워크 코어, JPA, querydsl 등에 관심이 많습니다.   
 
 
-<h3>🥢 기술스택 🥢</h3>
+<h3>Technic 💪</h3>
 <p>
     <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
     <img src="https://img.shields.io/badge/Vue-palegoldenrod?style=flat-square&logo=Vue.js&logoColor=black&color=4FC08D"/>
@@ -23,9 +25,9 @@
     <img src="https://img.shields.io/badge/Andorid-palegoldenrod?style=flat-square&logo=Android&logoColor=black&color=3DDC84"/>
 </p>
 
+</br>
 
-Git Activities
----
+## Git Activities [![TECH-BLOG](http://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/daramKim)
 
 ![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
 <!-- 
