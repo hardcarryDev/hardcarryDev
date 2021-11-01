@@ -79,3 +79,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <a href="mailto:chaindevchu@gmail.com">
    <img src="https://badgen.net/badge/icon/📕?icon=terminal&label=Do you wanna study?&color=29ABE0&labelColor=29ABE0" />
 </a>
+
