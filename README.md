@@ -13,7 +13,7 @@
 최근 스프링 프레임워크 코어, JPA, querydsl 등에 관심이 많습니다.   
 
 
-### Technic 💪
+### 💪 Skills
 
 <p>
     <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=black&color=F7DF1E"/>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/AOS-none?style=flat-square&logo=Android&logoColor=black&color=3DDC84"/>
 </p>
 
-### Tools 🛠
+### 🛠 Tools 
 
 <p>
     <img src="https://img.shields.io/badge/Visual Studio Code-none?style=flat-square&logo=Visual Studio Code&logoColor=007ACC&color=lightgrey"/>
