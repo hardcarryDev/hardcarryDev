@@ -61,7 +61,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![daramKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daramKim&border_color=2e4058)](https://github.com/daramKim) 
 -->
 
-[![commitcombo](http://commitcombo.com/get?user=daramKim&theme=RoyalRed-mini&v=2)](https://github.com/devxb/CommitCombo)
 <!-- [![commitcombo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo) -->
 
 <br>
