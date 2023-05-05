@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Oracle-palegoldenrod?style=flat-square&logo=Oracle&logoColor=black&color=F80000"/>
     <img src="https://img.shields.io/badge/AOS-none?style=flat-square&logo=Android&logoColor=black&color=3DDC84"/>
     <img src="https://img.shields.io/badge/Node.js-none?style=flat-square&logo=Node.js&logoColor=black&color=84F01E"/>
+    <img src="https://img.shields.io/badge/typescript-none?style=flat-square&logo=Typescript&logoColor=black&color=3178C6"/>
     
 </p>
 
