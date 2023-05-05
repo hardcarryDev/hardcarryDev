@@ -47,9 +47,9 @@
 
 </br>
 
-## Git Activities [![TECH-BLOG](http://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/daramKim)
+## Git Activities [![TECH-BLOG](http://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hardcarryDev)
 
-![daramKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=daramKim&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardcarryDev&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
 <!-- 
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
@@ -58,13 +58,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 &bg_color=30,e96443,904e95&title_color=fff&text_color=fff 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daramKim&layout=compact&theme=cobalt&border_color=2e4058&hide=python,C,C%2B%2B)](https://github.com/daramKim)
-
-<!-- wakatime... 이건 사용할지 안할지 고려중
-[![daramKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daramKim&border_color=2e4058)](https://github.com/daramKim) 
--->
-
-<!-- [![commitcombo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardcarryDev&layout=compact&theme=cobalt&border_color=2e4058&hide=python,C,C%2B%2B)](https://github.com/hardcarryDev)
 
 <br>
 
