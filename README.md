@@ -1,7 +1,5 @@
 ## 반갑습니다! 🙇🏻 　[![TWEETER](https://img.shields.io/badge/Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chaindevchu) [![G-MAIL](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaindevchu@gmail.com)](mailto:chaindevchu@gmail.com)  
 
-<!-- ![LINKED-IN](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com) -->
-
 <div align="right"/>
     
 <a><img src="https://badgen.net/badge/icon/Software engineer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=8174f6&labelColor=9b91f8"/></a>
@@ -28,6 +26,8 @@
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F"/>
     <img src="https://img.shields.io/badge/Oracle-palegoldenrod?style=flat-square&logo=Oracle&logoColor=black&color=F80000"/>
     <img src="https://img.shields.io/badge/AOS-none?style=flat-square&logo=Android&logoColor=black&color=3DDC84"/>
+    <img src="https://img.shields.io/badge/Node.js-none?style=flat-square&logo=Node.js&logoColor=black&color=84F01E"/>
+    
 </p>
 
 ### 🛠 Tools 
