@@ -49,7 +49,7 @@
 
 ## Git Activities [![TECH-BLOG](http://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/hardcarryDev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardcarryDev&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=grey)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardcarryDev&show_icons=true&bg_color=10,e96443,904e95&title_color=184e95&text_color=black&border_color=onedark)
 <!-- 
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
@@ -62,7 +62,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <br>
 
-## :sparkling_heart: 항상 일을 맡겨주셔서 감사합니다!💯
+## :sparkling_heart: 항상 맡겨주셔서 감사합니다!💯
 
-믿고 주신 프로젝트는 한땀한땀 최선을 다해 완성해드리겠습니다🤗
+믿고 맡겨주신 프로젝트는 한땀한땀 최선을 다해 완성해드리겠습니다🤗
+<br>
 감사합니다👍  
