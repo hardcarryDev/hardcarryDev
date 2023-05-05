@@ -9,8 +9,10 @@
 
 <div align="left"/>
 
-프론트 위주로 프로젝트를 진행하다가, 최근 자바 백엔드로 전향중인 개발자입니다.   
-최근 스프링 프레임워크 코어, JPA, querydsl 등에 관심이 많습니다.   
+안녕하세요^^ 프리랜서로 일하고 있는 은둔의 사나이입니다.
+자바 스프링 관련 프로젝트를 주로해오다, 최근 1~2년 사이에 
+프론트엔드 포지션으로 프로젝트에 투입되어 오고 있습니다.
+덕분에 JS, TS, node.js 등등에 관심이 많습니다. 
 
 
 ### 💪 Skills
@@ -65,16 +67,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <br>
 
-## :sparkling_heart: 같이 성장하실분 대모집중👍
-스프링.. 정말 완벽한 프레임워크라고 생각합니다 💯      
-저랑 비슷하게 자바 스프링에 꽂히신 분들이 많을거라 생각하는데요, 공부해야 될게 한두가지가 아니죠!?    
-저도 밥먹는시간 빼고는 전부 스프링에 매달려 있답니다.
-혼자 공부하는것도 좋지만 같이 공부하면 더욱 더 재밌을 것 같아요🤗   
-현재 구상중인 Study 방식이 몇가지 됩니다. 사람만 구해지면 바로 진행할 예정이에요.   
-문은 언제나 열려있으니 부담 가지지 말고 연락주세요! 기다릴게요 감사합니다.    
-늦었다고 생각할 때가 가장 빠를 때입니다. 같이 성장하시죠!    
-오픈 마인드이신분들은 아래 버튼을 통해 Join 해주시면 감사하겠습니다. ^^  
+## :sparkling_heart: 항상 일을 맡겨주셔서 감사합니다!💯
 
-<a href="mailto:chaindevchu@gmail.com">
-   <img src="https://badgen.net/badge/icon/📕?icon=terminal&label=Do you wanna study?&color=29ABE0&labelColor=29ABE0" />
-</a>   
+믿고 주신 프로젝트는 한땀한땀 최선을 다해 완성해드리겠습니다🤗
+감사합니다👍  
